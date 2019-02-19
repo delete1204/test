@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-aabbccabccccc
-=======
-3commit
-is good
->>>>>>> e727cdd34cfa1615419728ac5a25b972e88ff07a
